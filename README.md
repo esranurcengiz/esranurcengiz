@@ -1,10 +1,9 @@
 ## Hey There 👋, I'm Esra Nur CENGİZ! <a href='https://www.linkedin.com/in/esranurcengiz/'><img align='center' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" height='25px'/></a>
 
 I work as an embedded software engineer. I've been working on various microcontrollers (STM32, Nordic, NXP, ESP, TI, RaspberryPi) for over 3 years. IoT projects particularly interest me and I want to improve myself in embedded Linux projects.
-<img align="right" alt="GIF" src="https://github.com/tayfunaydinoz/GithubProfile/blob/22e637b8026cce06f9895fcaf1d7a7d6d22cdff1/CoderGif.gif" width="500" height="320" />
-<br/>
-<br/>
-### 🧐 More About Me:
+
+
+### 🧐 More About Me:                   
 
 - 🔭 &nbsp; I’m currently working on **C/C++ Projects**
 - 🤝 &nbsp; I’m looking to collaborate with other software developers
